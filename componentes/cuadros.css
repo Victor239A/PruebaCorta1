@@ -1,4 +1,3 @@
-
 .cuadro4{
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
@@ -9,6 +8,8 @@
     width: 60rem;
     align-items: center;
     }
+
+
 .cuadros{   
     height: 14rem;
     width: 14rem;
