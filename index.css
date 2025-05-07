@@ -1,41 +1,35 @@
-.grid1{
-
-    border-bottom: 0.5px solid black;
-    height: 1rem;
-    width: 100%;
-    display: flex;
-
-}
-
-.grid2{
- 
-    height: 27rem;
-   
-}
-
-.grid3{
-    border-bottom: 1px solid black;
+.cuadro1{
+    border-bottom:1px solid black;
     height: 10rem;
     width: 100%;
-
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
 }
 
-.imagen{
-height: 10rem;
-width: 10rem;
-display: flex;
-justify-content: center; 
-align-items: center;   
-padding: 2rem; 
-  
-
-
+.cuadro2{
+    height: 70rem;
+    display: flex;
+    justify-content:space-around;
 }
 
+.cuadro3{
+    border-top: 1px solid black;
+    height: 10rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
-.usuario{
-    font-size: 2rem;
-    margin-left: 170px;
-    margin-top: -100px;
+.img{
+    height: 8rem;
+    width: 15rem;
+}
+
+.texto{
+    font-size: 40px;
+    margin-left: -3rem;
     
 }
