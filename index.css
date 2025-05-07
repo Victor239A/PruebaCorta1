@@ -1,0 +1,23 @@
+.grid1{
+
+    border-bottom: 1px solid black;
+    height: 10rem;
+    width: 100%;
+    display: flex;
+
+
+}
+
+.grid2{
+ 
+    height: 27rem;
+   
+}
+
+
+.grid3{
+    border-bottom: 1px solid black;
+    height: 10rem;
+    width: 100%;
+
+}
